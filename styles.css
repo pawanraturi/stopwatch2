@@ -1,0 +1,36 @@
+.container{
+  border: 2px solid red;
+}
+
+.main{
+  font-family: helvetica;
+  background-color: grey;
+  border: 1px solid green;
+  padding: 15px;
+  display: flex;
+  justify-content: flex-start;
+  align-items:flex-start;
+}
+
+.dropdown{
+  padding: 5px;
+  margin: 10px;
+  font-size: 0.5cm;
+  -webkit-appearance: none;
+  text-align: center;
+  border: none;
+}
+
+table{
+  border: 2px solid;
+}
+table td{
+  text-align: center;
+  border: 2px solid;
+  width: 150px;
+}
+
+
+#tohide{
+  display: none;
+}
